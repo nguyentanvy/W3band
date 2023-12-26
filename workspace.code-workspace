@@ -1,0 +1,52 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\display"
+		},
+		{
+			"path": "..\\flexboxf8"
+		},
+		{
+			"path": "..\\Position"
+		},
+		{
+			"path": "..\\responsive1"
+		},
+		{
+			"path": "..\\breakpoint"
+		},
+		{
+			"path": "..\\BEM2"
+		},
+		{
+			"path": "..\\Shoppe"
+		},
+		{
+			"path": "..\\btlayout"
+		},
+		{
+			"path": "..\\Form dang ki"
+		},
+		{
+			"path": "..\\hoc_responsive"
+		},
+		{
+			"path": "..\\hoc2_responsive"
+		},
+		{
+			"path": "..\\grid"
+		},
+		{
+			"path": "..\\F8-grid"
+		},
+		{
+			"path": "..\\..\\..\\maupython"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Shoppe"
+	}
+}
